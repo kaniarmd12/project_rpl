@@ -48,11 +48,9 @@ Kategori Asset
                         <thead>
                           <tr>
                             <th>no</th>
-                            <th>Nama tas</th>
-                            <th>Brand</th>
-                            <th>kategori tas</th>
-                            <th>stock</th>
-                            <th>Harga</th>
+                            <th>Kode Pelanggan</th>
+                            <th>Nama Pelanggan</th>
+                            
                             <th>aksi</th>
                           </tr>
                         </thead>
@@ -62,21 +60,40 @@ Kategori Asset
                           
                           <tr>
                             <td>1</td>
-                            <td>Discovery Backpack PM </td>
+                            <td>F-12</td>
+
+                          
                            
                           
-                            <td>Louis Vuitton</td>
+                            <td>Alex</td>
 
-                            <td>backpack</td>
-                            <td>10</td>
-                            <td>44.500.000</td>
+                          
 
                            
 
                             <td>
-                              <a href="" class="btn btn-primary">Tambah stock</a>
+                              <a href="/buy/order" class="btn btn-primary">Pembelian</a>
 
-                              <a href="" class="btn btn-primary">edit</a>
+
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>1</td>
+                            <td>F-13</td>
+
+                          
+                           
+                          
+                            <td>Ujang Petot</td>
+
+                          
+
+                           
+
+                            <td>
+                              <a href="" class="btn btn-primary">Detail Pembelian</a>
+
+                             
                               <a href="" class="btn btn-danger">Hapus</a>
 
                             </td>

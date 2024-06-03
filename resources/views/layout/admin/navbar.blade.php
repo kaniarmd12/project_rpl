@@ -41,7 +41,7 @@
 
             <li><a><i class="fa fa-money"></i>Pembelian<span class="fa fa-chevron-down"></span></a>
               <ul class="nav child_menu">
-                <li><a href="/admin/assetCategory">Pembelian Tas</a></li>
+                <li><a href="/buy">Pembelian Tas</a></li>
                 <li><a href="/admin/origin">kelola asal asset</a></li>
                 <li><a href="/admin/asset">kelola asset</a></li>
                 

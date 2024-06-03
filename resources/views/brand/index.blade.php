@@ -48,11 +48,8 @@ Kategori Asset
                         <thead>
                           <tr>
                             <th>no</th>
-                            <th>Nama tas</th>
-                            <th>Brand</th>
-                            <th>kategori tas</th>
-                            <th>stock</th>
-                            <th>Harga</th>
+                            <th>Nama Brand</th>
+                            
                             <th>aksi</th>
                           </tr>
                         </thead>
@@ -62,14 +59,12 @@ Kategori Asset
                           
                           <tr>
                             <td>1</td>
-                            <td>Discovery Backpack PM </td>
+                          
                            
                           
                             <td>Louis Vuitton</td>
 
-                            <td>backpack</td>
-                            <td>10</td>
-                            <td>44.500.000</td>
+                          
 
                            
 

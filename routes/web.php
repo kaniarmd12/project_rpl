@@ -29,8 +29,19 @@ Route::middleware('auth')->group(function () {
 });
 
 
-Route::get('/cek',function(){
+Route::get('/bag',function(){
     return view('bag.index');
 });
-
+Route::get('/brand',function(){
+    return view('brand.index');
+});
+Route::get('/category',function(){
+    return view('category.index');
+});
+Route::get('/buy',function(){
+    return view('buy.index');
+});
+Route::get('/buy/order',function(){
+    return view('buy.order');
+});
 require __DIR__.'/auth.php';
