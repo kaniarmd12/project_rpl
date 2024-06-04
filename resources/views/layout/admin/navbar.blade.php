@@ -42,8 +42,7 @@
             <li><a><i class="fa fa-money"></i>Pembelian<span class="fa fa-chevron-down"></span></a>
               <ul class="nav child_menu">
                 <li><a href="/buy">Pembelian Tas</a></li>
-                <li><a href="/admin/origin">kelola asal asset</a></li>
-                <li><a href="/admin/asset">kelola asset</a></li>
+          
                 
               </ul>
             </li>
@@ -56,25 +55,7 @@
                 
               </ul>
             </li>
-            <li><a><i class="fa fa-user"></i> Pengembalian<span class="fa fa-chevron-down"></span></a>
-              <ul class="nav child_menu">
-                <li><a href="/admin/borrow/return">Daftar Pengembalian</a></li>
-                <li><a href="/admin/borrow/history">History Pengembalian</a></li>
-                
-              </ul>
-            </li>
             <li><a><i class="fa fa-print"></i> Laporan<span class="fa fa-chevron-down"></span></a>
-              <ul class="nav child_menu">
-                <li><a href="/admin/print/asset/all">Asset</a></li>
-                <li><a href="/admin/print/asset/good">Asset Kondisi Baik</a></li>
-                <li><a href="/admin/print/asset/broken">Asset Kondisi Rusak</a></li>
-                <li><a href="/admin/print/asset/lost">Asset Kondisi Hilang</a></li>
-
-
-
-                <li><a href="/admin/print/history">History pengembalian</a></li>
-                
-              </ul>
             </li>
           </ul>
         </div>

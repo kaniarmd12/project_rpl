@@ -11,17 +11,17 @@
     <link href="{{asset('vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css')}}" rel="stylesheet">
 @endpush
 @section('headTitle')
-Kategori Asset
+Manajemen Kategori
 @endsection
 @section('title')
-Kategori Asset
+Manajemen Kategori
 @endsection
 @section('content')
 <div class="row">
     <div class="col-md-12 col-sm-12 ">
         <div class="x_panel">
           <div class="x_title">
-            <h2>Kategori Asset <small>List</small></h2>
+            <h2>Kategori <small>List</small></h2>
             
             <div class="clearfix"></div>
           </div>
@@ -43,7 +43,7 @@ Kategori Asset
                         {{ session()->get('succes') }}
                       </div>
                       @endif
-                      <a href="/admin/assetCategory/create" class="btn btn-info mb-5">Tambah category</a>
+                      <a href="/admin/assetCategory/create" class="btn btn-info mb-5">Tambah kategori</a>
                       <table id="datatable" class="table table-striped table-bordered" style="width:100%">
                         <thead>
                           <tr>
